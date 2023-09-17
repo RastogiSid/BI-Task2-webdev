@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #add8e6;
+    background-image: linear-gradient(to bottom, #add8e6 0%, #87ceeb 100%);
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin-bottom: 1em;
+  }
+  
+  footer {
+    text-align: center;
+  }
+    
